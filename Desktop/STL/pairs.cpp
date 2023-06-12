@@ -49,8 +49,6 @@ cout<<g2.first<<" "<<g2.second<<endl;
 cout<<g3.first<<" "<<g3.second<<endl;
 
 
-
-
 //one another way to initialise the pair
 
 // h1=make_pari("SuperbTut",345)
@@ -61,8 +59,6 @@ pair<char,int> h2=make_pair('A',675);
 
 cout<<h1.first<<" "<<h1.second<<endl;
 cout<<h2.first<<" "<<h2.second<<endl;
-
-
 
 }
 
